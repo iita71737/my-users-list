@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+#data-panel img {
+  border-radius: 50%;
+}
+
+#users-modal-image {
+  margin: 50px 100px;
+  height: 100%;
+}
+
+#users-modal-image img {
+  border-radius: 50%;
+}
+
+.list-group-item {
+  border: 2.5px;
+  border-color: lightblue;
+  border-style: double;
+}
